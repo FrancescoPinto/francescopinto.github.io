@@ -11,39 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Engineering, Politecnico di Milano, 2017
+* M.S. in Computer Engineering, Politecnico di Milano, 2019
+* Ph.D in Engineering Science, University of Oxford, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2020: FDL Research Sprint
+  * Frontiers Development Lab Europe (ESA/Trilium Technologies)
+  * Duties included: Machine Learning Researcher, developed Bayesian Deep Learning and Probabilistic Programming models for satellite collision assessment.
+  * Supervisor: A.B. Gunes, C. Bridges
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Probabilistic Programming
+* Machine Learning and Deep Learning
+* Computer Graphics and Video Game Development
+* Robotics Simulations and SLAM
+* Database management
+* Full-Stack Web development
+* Mobile App Developer
+* Software Engineering
 
 Publications
 ======
+* Towards Automated Satellite Conjunction Management with Bayesian Deep Learning, F. Pinto, G. Acciarini, S. Metz, S. Boufelja, S. Kaczmarek, K. Merz, J. A.M.Heras, F. Letizia, C. Bridges, A.G. Baydin (AI4EarthSciences, NeurIPS 2020)}
+* Spacecraft Collision Risk Assessment with Probabilistic Programming, G. Acciarini, F. Pinto, S. Metz, S. Boufelja, S. Kaczmarek, K. Merz, J. A.M.Heras, F. Letizia, C. Bridges, A.G. Baydin (ML4PS, NeurIPS 2020)
+* SECI-GAN: Semantic and Edge Completion for dynamic objects removal, F. Pinto, A. Romanoni, M. Matteucchi, P.H.S. Torr (ICPR 2020)
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
 ======
+* FDL Europe Space Science and AI Showcase (Constellations Team): https://www.youtube.com/watch?v=kZxYMCKTo50 
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
@@ -54,6 +55,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
